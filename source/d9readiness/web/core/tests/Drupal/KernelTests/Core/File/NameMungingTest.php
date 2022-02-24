@@ -49,7 +49,7 @@ class NameMungingTest extends FileTestBase {
    */
   protected $nameWithUcExt;
 
-  protected function setUp() {
+  protected function setUp(): void {
     parent::setUp();
     $this->badExtension = 'foo';
     $this->name = $this->randomMachineName() . '.' . $this->badExtension . '.txt';

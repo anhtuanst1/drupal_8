@@ -499,11 +499,6 @@ re-architect or otherwise improve large areas of Drupal core. See
 https://www.drupal.org/community-initiatives/drupal-core for more information on
 their responsibilities. The initiative coordinators for Drupal 8 are:
 
-API-first Initiative
-- Wim Leers 'Wim Leers' https://www.drupal.org/u/wim-leers
-- Mateu Aguiló Bosch 'e0ipso' https://www.drupal.org/u/e0ipso
-- Gabe Sullice 'gabesullice' https://www.drupal.org/u/gabesullice
-
 Admin UI & JavaScript Modernisation Initiative
 - Cristina Chumillas 'ckrina' https://www.drupal.org/u/ckrina
 - Sally Young 'justafish' https://www.drupal.org/u/justafish
@@ -541,6 +536,7 @@ participate in mentoring.
 - Lucas Hedding 'heddn' https://www.drupal.org/u/heddn
 - Tara King 'sparklingrobots' https://www.drupal.org/u/sparklingrobots
 - Rachel Lawson 'rachel_norfolk' https://www.drupal.org/u/rachel_norfolk
+- Valery Lourie 'valthebald' https://www.drupal.org/u/valthebald
 - Elli Ludwigson 'ekl1773' https://www.drupal.org/u/ekl1773
 - Jess Myrbo 'xjm' https://www.drupal.org/u/xjm
 - Matthew Radcliffe 'mradcliffe' https://www.drupal.org/u/mradcliffe

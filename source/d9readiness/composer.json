@@ -16,12 +16,11 @@
     ],
     "require": {
         "composer/installers": "^1.2",
-        "drupal/core-composer-scaffold": "^8.8",
-        "drupal/core-project-message": "^8.8",
-        "drupal/core-recommended": "^8.8",
+        "drupal/core-composer-scaffold": "^9",
+        "drupal/core-project-message": "^9",
+        "drupal/core-recommended": "^9",
         "drupal/devel_kint_extras": "^1.0",
         "drupal/token": "^1.7.0",
-        "drupal/upgrade_status": "^3.13",
         "drush/drush": "dev-master"
     },
     "conflict": {
@@ -91,8 +90,5 @@
                 "      composer remove drupal/core-project-message"
             ]
         }
-    },
-    "require-dev": {
-        "drupal/core-dev": "8.9"
     }
 }
