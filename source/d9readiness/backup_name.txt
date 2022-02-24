@@ -1,0 +1,3 @@
+d9readiness\vendor\composer\0a48b0f2\drupal-core-3e5e7ac\modules\content_moderation\tests\modules\content_moderation_test_views\config\install
+views.view.test_content_moderation_state_filter_base_table_filter_on_revision.yml
+-> views.view.test_content_moderation_state_filter_base_table_filter_on.yml
